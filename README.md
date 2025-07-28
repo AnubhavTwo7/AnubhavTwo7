@@ -66,10 +66,10 @@
 ## 🎯 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/your-username/project1">
+  <a href="[https://github.com/your-username/project1](https://github.com/AnubhavTwo7/F1-Tracker)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubhavTwo7&repo=project1&theme=dark" />
   </a>
-  <a href="https://github.com/your-username/project2">
+  <a href="[https://github.com/your-username/project2](https://github.com/AnubhavTwo7/MusicOptimiser)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubhavTwo7&repo=project2&theme=dark" />
   </a>
 </div>
@@ -87,7 +87,7 @@
 
 ## 👀 Profile Views
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=AnubhavTwo7&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
 </div>
 
 </div>
