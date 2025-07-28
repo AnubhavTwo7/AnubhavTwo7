@@ -66,10 +66,10 @@
 ## 🎯 Featured Projects
 
 <div align="center">
-  <a href="[https://github.com/your-username/project1](https://github.com/AnubhavTwo7/F1-Tracker)">
+  <a href="https://github.com/your-username/F1-Tracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubhavTwo7&repo=project1&theme=dark" />
   </a>
-  <a href="[https://github.com/your-username/project2](https://github.com/AnubhavTwo7/MusicOptimiser)">
+  <a href="https://github.com/your-username/MusicOptimiser">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubhavTwo7&repo=project2&theme=dark" />
   </a>
 </div>
