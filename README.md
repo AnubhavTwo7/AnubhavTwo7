@@ -67,10 +67,10 @@
 
 <div align="center">
   <a href="https://github.com/your-username/F1-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubhavTwo7&repo=project1&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubhavTwo7&repo=F1-Tracker&theme=dark" />
   </a>
   <a href="https://github.com/your-username/MusicOptimiser">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubhavTwo7&repo=project2&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubhavTwo7&repo=MusicOptimiser&theme=dark" />
   </a>
 </div>
 
